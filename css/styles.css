@@ -208,10 +208,7 @@ p {
   line-height: 1.2;
   color: white;
 }
-p{
-  font-size: 0.8rem;
-  padding: 0 5px;
-}
+
 #pricing{
   padding:50px 30px;
   background-color: #ef8172;
@@ -220,7 +217,7 @@ h3{
   font-size: 2rem;
 }
 .sectionpara{
-  font-size: 1rem;
+  font-size: 1.3rem;
   color: #674747;
 }
 .price-text{
@@ -234,10 +231,11 @@ h3{
   top:30px;
 }
 .feature-head{
-  font-size: 2.8rem;
+  font-size: 3rem;
 }
 p{
   font-size: 1.2rem;
+  padding: 0 5px;
 }
 #footer .Copyright-foot{
   font-size: 1.2rem;

@@ -204,7 +204,7 @@ p {
   width: 20%;
 }
 .section-heading{
-  font-size: 3rem;
+  font-size: 3.2rem;
   line-height: 1.2;
   color: white;
 }
@@ -214,10 +214,10 @@ p {
   background-color: #ef8172;
 }
 h3{
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 .sectionpara{
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   color: #674747;
 }
 .price-text{
@@ -231,14 +231,20 @@ h3{
   top:30px;
 }
 .feature-head{
-  font-size: 3rem;
+  font-size: 2.8rem;
 }
 p{
-  font-size: 1.2rem;
-  padding: 0 5px;
+  font-size: 1.5rem;
+    padding: 0 5px;
 }
 #footer .Copyright-foot{
   font-size: 1.2rem;
+}
+.card{
+  width: 70%;
+  position: relative;
+  left:15%;
+}
 }
 @media (max-width:530px){
   .press-logo {
